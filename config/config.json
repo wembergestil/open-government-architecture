@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "OpenGovArchADMIN",
+    "password": "OpenGovPwd!",
+    "database": "oga_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "OpenGovArchADMIN",
+    "password": "OpenGovPwd!",
+    "database": "oga_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "OpenGovArchADMIN",
+    "password": "OpenGovPwd!",
+    "database": "oga_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
